@@ -1,0 +1,28 @@
+Diferença entre Algoritmos de Busca Lineares e Não Lineares
+
+A principal diferença entre algoritmos de busca lineares e não lineares está na forma como os dados são acessados e percorridos dentro de uma estrutura de dados.
+
+Algoritmos de Busca Lineares
+
+Nos algoritmos de busca lineares, os elementos são verificados de maneira sequencial, ou seja, um a um, até que o item desejado seja encontrado ou a busca seja concluída.
+
+Exemplos de Algoritmos de Busca Lineares:
+
+Busca Linear (ou Sequencial) → Percorre todos os elementos de uma estrutura de dados até encontrar o item desejado ou terminar a busca. Exemplo: Buscar por um número específico em uma lista não ordenada [10, 20, 30, 40, 50].
+Algoritmos de Busca Não Lineares
+
+Nos algoritmos de busca não lineares, a busca não segue uma sequência linear, pois a estrutura de dados pode ser organizada de maneira hierárquica ou interconectada, o que permite uma busca mais eficiente dependendo da estrutura utilizada.
+
+Exemplos de Algoritmos de Busca Não Lineares:
+
+Busca Binária → Utiliza uma estrutura de dados ordenada, dividindo repetidamente a lista ao meio para reduzir a quantidade de elementos a serem verificados. Exemplo: Buscar por um número em uma lista ordenada [1, 3, 5, 7, 9].
+
+Busca em Árvore Binária de Busca (BST) → A busca ocorre em uma árvore onde os nós à esquerda de um nó são menores que o nó e os à direita são maiores, o que permite uma busca mais eficiente. Exemplo: Buscar por um valor em uma árvore binária de busca.
+
+Resumo
+
+Tipo	Característica	Exemplos
+Linear	Busca sequencial	Busca Linear
+Não Linear	Busca hierárquica ou interconectada	Busca Binária, Busca em Árvore Binária de Busca
+Compreender a diferença entre algoritmos de busca lineares e não lineares é fundamental para escolher a abordagem mais eficiente de acordo com a estrutura de dados utilizada e o contexto da aplicação.
+
