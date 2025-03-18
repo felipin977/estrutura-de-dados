@@ -7,7 +7,7 @@ Cada módulo do estudo está organizado em diretórios, contendo arquivos explic
   - 📄 `README.md:` Apresenta o conceito de estruturas de dados e sua relevância.
 
 ### 2️⃣ Definição e Relevância das Estruturas de Dados no Desenvolvimento de Software
-📂 **Diretório**: Definicao-Relevancia
+📂 **Diretório**: `Definicao-Relevancia`
   - 📄 `README.md:` Apresenta as diferenças entre estruturas de dados lineares e não lineares.
   - 📄 `exemplo.py:` Demonstra como a escolha adequada de estruturas de dados afeta o desempenho do software.
 
