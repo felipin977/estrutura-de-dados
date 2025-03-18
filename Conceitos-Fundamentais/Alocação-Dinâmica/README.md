@@ -1,4 +1,4 @@
-**"Alocação-Dinâmica"**
+# Alocação-Dinâmica
 
 ```markdown
 # Alocação Dinâmica
