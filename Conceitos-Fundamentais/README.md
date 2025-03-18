@@ -1,7 +1,7 @@
 
-# Alocação Estática
+# 📌 Alocação Estática
 
-📌 A **alocação estática** ocorre quando a quantidade de memória necessária para armazenar uma estrutura de dados é determinada em tempo de compilação. Ou seja, o tamanho do espaço de memória a ser utilizado é fixo e não pode ser alterado durante a execução do programa. Um exemplo clássico de alocação estática são os arrays em linguagens como C e C++.
+A **alocação estática** ocorre quando a quantidade de memória necessária para armazenar uma estrutura de dados é determinada em tempo de compilação. Ou seja, o tamanho do espaço de memória a ser utilizado é fixo e não pode ser alterado durante a execução do programa. Um exemplo clássico de alocação estática são os arrays em linguagens como C e C++.
 
 ## Características da Alocação Estática:
 - O tamanho da estrutura de dados é conhecido em tempo de compilação.
