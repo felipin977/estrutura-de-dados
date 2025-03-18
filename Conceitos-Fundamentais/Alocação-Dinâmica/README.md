@@ -1,6 +1,6 @@
 # Alocação-Dinâmica
 
-```markdown
+
 # Alocação Dinâmica
 
 A **alocação dinâmica** é uma técnica de alocação de memória onde a quantidade de memória necessária para armazenar uma estrutura de dados é determinada em tempo de execução. A alocação dinâmica permite que o programa ajuste o tamanho de uma estrutura de dados conforme a necessidade durante a execução.
