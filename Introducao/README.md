@@ -1,4 +1,4 @@
-# estrutura-de-dados
+
 # Introdução às Estruturas de Dados
 
 Estruturas de dados são maneiras organizadas de armazenar e manipular dados em um programa. Elas permitem que os desenvolvedores gerenciem grandes volumes de informações de maneira eficiente e eficaz, facilitando o acesso e o processamento dos dados conforme necessário.
