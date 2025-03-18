@@ -9,8 +9,8 @@ As estruturas de dados lineares são aquelas em que os elementos são armazenado
 Uma lista é uma coleção de elementos onde cada elemento possui uma posição específica, podendo ser acessado ou modificado diretamente por meio dessa posição (índice). Listas podem ser implementadas de diversas formas, como listas simplesmente encadeadas ou arrays.
 
 # Principais operações de listas:
-•	Inserção: Adiciona um novo elemento em uma posição específica.
-•	Remoção: Remove um elemento da lista, geralmente a partir de uma posição específica.
-•	Acesso: Acessa um elemento através do índice.
-•	Busca: Encontra um elemento na lista.
+-	Inserção: Adiciona um novo elemento em uma posição específica.
+-	Remoção: Remove um elemento da lista, geralmente a partir de uma posição específica.
+-	Acesso: Acessa um elemento através do índice.
+-	Busca: Encontra um elemento na lista.
 
