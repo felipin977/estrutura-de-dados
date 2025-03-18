@@ -1,5 +1,5 @@
 
-## Cada módulo do estudo está organizado em diretórios, contendo arquivos explicativos (README.md) e exemplos práticos de código (exemplo.py).
+### Cada módulo do estudo está organizado em diretórios, contendo arquivos explicativos (README.md) e exemplos práticos de código (exemplo.py).
 
 ### 1. Introdução às Estruturas de Dados
 📂 **Diretório:** `Introdução`
