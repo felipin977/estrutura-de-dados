@@ -22,7 +22,8 @@ Busca em Árvore Binária de Busca (BST) → A busca ocorre em uma árvore onde 
 Resumo
 
 Tipo	Característica	Exemplos
-Linear	Busca sequencial	Busca Linear
-Não Linear	Busca hierárquica ou interconectada	Busca Binária, Busca em Árvore Binária de Busca
-Compreender a diferença entre algoritmos de busca lineares e não lineares é fundamental para escolher a abordagem mais eficiente de acordo com a estrutura de dados utilizada e o contexto da aplicação.
+
+- Linear	Busca sequencial	Busca Linear
+- Não Linear	Busca hierárquica ou interconectada	Busca Binária, Busca em Árvore Binária de Busca
+- Compreender a diferença entre algoritmos de busca lineares e não lineares é fundamental para escolher a abordagem mais eficiente de acordo com a estrutura de dados utilizada e o contexto da aplicação.
 
