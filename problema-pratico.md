@@ -6,6 +6,6 @@ Em um departamento de suporte técnico, os pedidos de assistência dos clientes 
 A estrutura de fila (Queue) é a mais indicada, pois segue o princípio FIFO (First In, First Out), ou seja, o primeiro pedido registrado será o primeiro a ser atendido.
 
 ### Como Funciona:
-# Chamados novos são inseridos no final da fila.
-O atendimento é feito removendo o pedido do início da fila.
-O sistema pode mostrar a fila atual para monitoramento.
+1. Chamados novos são inseridos no final da fila.
+2. O atendimento é feito removendo o pedido do início da fila.
+3. O sistema pode mostrar a fila atual para monitoramento.
