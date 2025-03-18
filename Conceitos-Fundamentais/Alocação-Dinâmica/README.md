@@ -1,4 +1,3 @@
-# Alocação-Dinâmica
 
 
 # Alocação Dinâmica
